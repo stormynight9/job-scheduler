@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1683699965 source:c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\job-scheduler.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+	"job.h"
+	"machine.h"
+	"optimizer.h"
+
+1683708416 source:c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\main.cpp
+	<iostream>
+	<chrono>
+	"job.h"
+	"machine.h"
+	"optimizer.h"
+	"csv.h"
+
+1683708194 c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\job.h
+	<queue>
+	<fstream>
+
+1683700048 c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\job_queue.h
+	<queue>
+	"job.h"
+
+1683708565 source:c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\job.cpp
+	<algorithm>
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+	"job.h"
+
+1683700034 source:c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\job_queue.cpp
+	<iostream>
+	"job_queue.h"
+
+1683700065 c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\machine.h
+	<vector>
+	"assigned_jobs.h"
+
+1683700872 c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\assigned_jobs.h
+	<ostream>
+	"job.h"
+
+1683702761 c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\optimizer.h
+	"machine.h"
+	"assigned_jobs.h"
+
+1683700877 source:c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\assigned_jobs.cpp
+	<iostream>
+	"assigned_jobs.h"
+
+1683702608 source:c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\machine.cpp
+	<iostream>
+	<string>
+	"machine.h"
+
+1683710139 source:c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\optimizer.cpp
+	<iostream>
+	"optimizer.h"
+
+1683708525 source:c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\csv.cpp
+	"csv.h"
+
+1683708164 c:\users\asus\documents\isimm\semestre 6\optimisation combinatoire\optimisation combinatoire ing1\csv.h
+	<string>
+	<fstream>
+
